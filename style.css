@@ -1,0 +1,27 @@
+.fonts{
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+    font-size: 16px;
+    color: white;
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523");
+    height: 1000px;
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+
+}
+.tag{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+    color:white;
+}
+.button{
+    background-color: #ffa500;
+    color: white;
+}
+.para{
+    font-family:'Roboto' ;
+    color: white;
+}
