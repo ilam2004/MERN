@@ -1,0 +1,109 @@
+.fonts{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    height: 620px; 
+    width: 510px;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+}
+.button1{
+    background-color: #323f4b;
+    width: 510px;
+    height: 60px;
+    border: 0px;
+    font-size: 16px;
+    color: #ffffff;
+
+}
+.button2{
+    background-color: #47a3f3;
+    width:450px;
+    height:55px;
+    border: 0px;    
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align:right;
+    margin-left: 30px;
+    margin-top: 40px;
+
+}
+.button3{
+    background-color: #52606d;;
+    width:450px;
+    height:55px;
+    border: 0px;    
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align:left;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.button4{
+    background-color: #47a3f3;
+    width:450px;
+    height:55px;
+    border: 0px;    
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align:right;
+    margin-left: 30px;
+    margin-top: 30px;
+
+
+}
+.button5{
+    background-color: #52606d;;
+    width:450px;
+    height:55px;
+    border: 0px;    
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align:left;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.button6{
+    background-color: #47a3f3;
+    width:450px;
+    height:55px;
+    border: 0px;    
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    margin-left: 30px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align:right;
+    margin-left: 30px;
+    margin-top: 30px;
+
+
+}
+.button7{
+    background-color: #52606d;;
+    width:450px;
+    height:55px;
+    border: 0px;    
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align:left;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
